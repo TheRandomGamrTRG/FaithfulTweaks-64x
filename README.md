@@ -11,10 +11,10 @@
     <a href="https://github.com/FaithfulTweaks/FaithfulTweaks/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/FaithfulTweaks/FaithfulTweaks"></a>
 </p>
 
-An open source recreation of [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/) for the Faithful x32 Texturepack by [The Faithful Team](https://faithful.team/).
+An open source recreation of [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/) for the Faithful 64x Texturepack by Team HJP.
 
 ## Creating Modules
-If you're interested in creating a module, please look at [the wiki](https://github.com/FaithfulTweaks/FaithfulTweaks/wiki).
+If you're interested in creating a module, please look at [the wiki](https://github.com/TheRandomGamrTRG/FaithfulTweaks/wiki).
 
 Notice: Icon/HUD modules, options background modules, and menu panorama modules are not implemented in the traditional fashion.
 
@@ -144,17 +144,11 @@ Example response from POST request:
 
 ## Credits
 ⚠ **NOTE** We try to give credit to those that created the textures but we're not great at keeping track. If you believe some textures are yours please contact us and we'll add you to this list (or take your textures down upon request).
-- [Banakin](https://banakin.github.io): Making the website and various tweaks
-- Doge: FullyAgedCropMarker and AlternateBlockDestruction
+- [Banakin](https://banakin.github.io): Making the website
 - [The Faithful Team](https://faithful.team/): Making the Faithful Texture Pack
-- [Nekzuris](https://twitter.com/Nekzuris): ColoredPing
-- Pomik108: RainbowXPBar
-- Redcoke26: MelonHunger
-- Seirin-Blu: Unobtrusive Rain, Unobtrusive Water
 - TheRandomGamerTRG: Making the information site and various tweaks
 - [Stridey](https://www.planetminecraft.com/member/stridey/): LowShield
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/): Inspiration
-- [jogurciQ](https://www.planetminecraft.com/member/jogurciq/): Dark UI textures
 
 ## Tech Used
 - [Firebase](https://firebase.google.com/) - Backend (API, Hosting, Storage)
